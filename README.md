@@ -1,4 +1,4 @@
-# YOLO Real-Time Object Detection 🦾🎥
+# Real-Time Object Detection using YOLO11n
 
 This project uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) with OpenCV to run **real-time object detection** from your webcam.  
 It allows you to:
@@ -9,7 +9,7 @@ It allows you to:
 
 ---
 
-## 📦 Requirements
+## Requirements
 - Python **3.8+**
 - Webcam (480p)
 
